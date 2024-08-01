@@ -6,5 +6,5 @@
   - [![Chess.com Profile](https://img.shields.io/badge/Chess.com-Play%20Now-green?style=for-the-badge&logo=chess&logoColor=white)](https://www.chess.com/member/kukuxers)
 
 ### Hi there 👋
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Kukuxer?theme=dark&font=Kosugi&ext=activity)](https://github.com/kukuxer)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Kukuxer?theme=dark&font=Kosugi&ext=activity)](https://leetcode.com/u/kukuxer/)
 
