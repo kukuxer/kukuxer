@@ -1,10 +1,12 @@
+<div align="center">
 
-📫 How to reach me:
-  - [![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kukuxer/) 
-  - [![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kukuxer)
-  - [![GitHub](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kukuxer-atu)  - MY STUDENT GITHUB
-  - [![Chess.com Profile](https://img.shields.io/badge/Chess.com-Play%20Now-green?style=for-the-badge&logo=chess&logoColor=white)](https://www.chess.com/member/kukuxers)
+### 📫 Contact me 
 
-### Hi there 👋
+[![Instagram](https://img.shields.io/badge/Instagram-0D0D0D?style=for-the-badge&logo=instagram&logoColor=FF00FF)](https://www.instagram.com/kukuxer/)
+[![Telegram](https://img.shields.io/badge/Telegram-0D0D0D?style=for-the-badge&logo=telegram&logoColor=00E5FF)](https://t.me/kukuxer)
+[![GitHub](https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=B026FF)](https://github.com/kukuxer-atu)
+[![Chess.com](https://img.shields.io/badge/Chess.com-0D0D0D?style=for-the-badge&logo=chessdotcom&logoColor=39FF14)](https://www.chess.com/member/skebobuxer)
+
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Kukuxer?theme=dark&font=Kosugi&ext=activity)](https://leetcode.com/u/kukuxer/)
 
+</div>
